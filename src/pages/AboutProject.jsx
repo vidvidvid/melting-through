@@ -23,10 +23,11 @@ export const AboutProject = () => {
           vital and fragile. It offers space for reflection and collaboration,
           calling us to nurture biophilic connections in the face of ecological
           and societal shifts, to build not just structures, but shared futures
-          rooted in care.  XenoScapers collective Beti Frim, Ines Sekač, Mori
-          Sikora, Katarina Babič Derenda Material/technique Video installation;
-          3D scans; wood, wire, beeswax, natural pigments and plants 2024About
-          the project Melting through is a video installation and participatory
+          rooted in care.
+          <br /> XenoScapers collective Beti Frim, Ines Sekač, Mori Sikora,
+          Katarina Babič Derenda Material/technique Video installation; 3D
+          scans; wood, wire, beeswax, natural pigments and plants 2024About the
+          project Melting through is a video installation and participatory
           project that weaves together the lives of humans, non-human entities,
           and materials through the fluid lens of queer ontology. Beeswax,
           emerges as a living, shape-shifting material, symbolizing
@@ -40,10 +41,16 @@ export const AboutProject = () => {
           biodiversity and social diversity meet, each vital and fragile. It
           offers space for reflection and collaboration, calling us to nurture
           biophilic connections in the face of ecological and societal shifts,
-          to build not just structures, but shared futures rooted in care. 
-          XenoScapers collective Beti Frim, Ines Sekač, Mori Sikora, Katarina
-          Babič Derenda Material/technique Video installation; 3D scans; wood,
-          wire, beeswax, natural pigments and plants 2024
+          to build not just structures, but shared futures rooted in care.
+          <br />
+          <br />
+          <br />
+          XenoScapers collective <br />
+          Beti Frim, Ines Sekač, Mori Sikora, Katarina Babič Derenda
+          <br />
+          <br /> Material/technique <br />
+          Video installation; 3D scans; wood, wire, beeswax, natural pigments
+          and plants
         </p>
         <p>2024</p>
         <img

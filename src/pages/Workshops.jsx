@@ -24,8 +24,9 @@ export const Workshops = () => {
                 }}
               />
             </div>
-            <span style={{ fontSize: "1.2rem" }}>
-              Workshops with queer organisations
+            <span style={{ fontSize: "1rem" }}>
+              Workshops with <br />
+              queer organisations
             </span>
           </Link>
 
@@ -45,8 +46,10 @@ export const Workshops = () => {
                 }}
               />
             </div>
-            <span style={{ fontSize: "1.2rem" }}>
-              Workshops with children/creation of wax creatures
+            <span style={{ fontSize: "1rem" }}>
+              Workshops with children/
+              <br />
+              creation of wax creatures
             </span>
           </Link>
 
@@ -66,8 +69,9 @@ export const Workshops = () => {
                 }}
               />
             </div>
-            <span style={{ fontSize: "1.2rem" }}>
-              Workshops with adults/elders
+            <span style={{ fontSize: "1rem" }}>
+              Workshops with
+              <br /> adults/elders
             </span>
           </Link>
           <p>

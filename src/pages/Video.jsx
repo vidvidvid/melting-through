@@ -46,29 +46,65 @@ export const Video = () => {
             basically what ecological awareness is. It's equivalent to
             acknowledging in a deep way the existence of beings that aren't you,
             with whom you coexist. Once you've done that, you can't
-            un-acknowledge it. There's no going back." ― Timothy Morton we turn
-            to it to fluidity towards dynamic identity entanglement overlap we
-            perversely use Darwin to our advantage evolution has always meant
-            branched becoming life comes from life all creatures and non-beings
-            and things and entities and organisms and phenomena and and and- we
-            are in coexistence nothing exists without another and nothing comes
-            from nothing what theorists write about we feel in our bile in our
-            stomach an ancient truth so self-evident we build live breathe
-            believe our truth intertwined open source universal hormones broad
-            communities
+            un-acknowledge it. There's no going back." <br />― Timothy Morton
           </p>
 
           <p>
-            this is what we need this is what we want [Mori] space timeless
-            future present past we turn and turn an endless spiral that makes
-            sense eternal search where all beings species entities flow
-            coexistence interspecies connection we exist in our relation to all
-            and everything around us the communication between us as an energy
-            field waves defying gravity we speak with words with touch with
-            movement with thoughts with our creations all can be used for beauty
-            and abuse all can be used to move back and forth in a spiral new old
-            technologies that we are reviving they become part of our shared
-            reality
+            we turn to it
+            <br />
+            to fluidity flows like scorching wax
+            <br />
+            towards a dynamic identity
+            <br />
+            it pours into me
+            <br />
+            towards intertwinement
+            <br />
+            it slides
+            <br />
+            towards an overlapping
+            <br />
+            we perversely use darwin to our advantage
+            <br />
+            evolution has always meant a branched out becoming
+            <br />
+            life arises from life all creatures and non-beings and things and
+            entities
+            <br />
+            and organisms and phenomena and and and we are in coexistence
+            <br />
+            nothing exists without another and indeed nothing comes from nothing{" "}
+            <br />
+            we don't swear to that however
+            <br />
+            what theorists write about we feel in our bile
+            <br />
+            in the stomach the ancient truth is so self-evident <br />
+            <br />
+            space timeless future present past
+            <br />
+            we turn and turn an endless spiral that has meaning
+            <br />
+            the eternal search
+            <br />
+            where all beings species entities flow
+            <br />
+            coexistence interspecies connection we exist in relation to everyone
+            and everything <br />
+            <br />
+            around us communication between us as an energy field the waves defy
+            gravity
+            <br />
+            we speak with words we speak with our touches we show with movement
+            we show with our thoughts we show with our creations
+            <br />
+            all can be used for movement forward and backwards and in a circle
+            and in a spiral
+            <br />
+            new old ancient technologies but new ones that we are reviving
+            <br />
+            they become part of our shared reality
+            <br />
           </p>
         </div>
       </main>
