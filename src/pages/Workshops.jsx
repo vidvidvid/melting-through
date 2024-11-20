@@ -1,42 +1,96 @@
 import { Link } from "react-router-dom";
 import { Header } from "../components/Header";
+import { Footer } from "../components/Footer";
 
 export const Workshops = () => {
   return (
     <div>
-      <Header />
+      <Header customImage='/logo/workshops.svg' />
       <main className='p-8'>
-        <h1 className='text-3xl font-bold mb-6'>All Workshops</h1>
         <div className='grid gap-6'>
           <Link
-            to='/workshops/adults'
-            className='p-6 border rounded-lg shadow-sm hover:shadow-md transition'
+            to='/workshops/queer-organizations'
+            style={{ width: "100%", textAlign: "center" }}
           >
-            <h2 className='text-xl font-semibold mb-3'>Adult Workshops</h2>
-            <p className='text-gray-600'>
-              Professional and personal development programs
-            </p>
+            <div style={{ marginBottom: "1rem" }}>
+              <img
+                src='/wax/workshops-adults.png'
+                alt='Video section'
+                style={{
+                  width: "40%",
+                  height: "auto",
+                  display: "block",
+                  margin: "0 auto",
+                }}
+              />
+            </div>
+            <span style={{ fontSize: "1.2rem" }}>
+              Workshops with queer organisations
+            </span>
           </Link>
+
           <Link
             to='/workshops/children'
-            className='p-6 border rounded-lg shadow-sm hover:shadow-md transition'
+            style={{ width: "100%", textAlign: "center" }}
           >
-            <h2 className='text-xl font-semibold mb-3'>Children's Workshops</h2>
-            <p className='text-gray-600'>
-              Educational and creative activities for young minds
-            </p>
+            <div style={{ marginBottom: "1rem" }}>
+              <img
+                src='/wax/workshops-children.png'
+                alt='About the project'
+                style={{
+                  width: "40%",
+                  height: "auto",
+                  display: "block",
+                  margin: "0 auto",
+                }}
+              />
+            </div>
+            <span style={{ fontSize: "1.2rem" }}>
+              Workshops with children/creation of wax creatures
+            </span>
           </Link>
+
           <Link
-            to='/workshops/queer-organizations'
-            className='p-6 border rounded-lg shadow-sm hover:shadow-md transition'
+            to='/workshops/adults'
+            style={{ width: "100%", textAlign: "center" }}
           >
-            <h2 className='text-xl font-semibold mb-3'>Queer Organizations</h2>
-            <p className='text-gray-600'>
-              Specialized programs for LGBTQ+ organizations
-            </p>
+            <div style={{ marginBottom: "1rem" }}>
+              <img
+                src='/wax/workshops-queer.png'
+                alt='Workshops'
+                style={{
+                  width: "40%",
+                  height: "auto",
+                  display: "block",
+                  margin: "0 auto",
+                }}
+              />
+            </div>
+            <span style={{ fontSize: "1.2rem" }}>
+              Workshops with adults/elders
+            </span>
           </Link>
+          <p>
+            The workshops serve as a place where anyone interested can learn a
+            little about beeswax but first and foremost about interconnectedness
+            within different species and ecosystems. The main objective of the
+            workshops with the audience is to learn about the meaning of wax and
+            to create shapes using different techniques of pouring and using
+            wax, visualizing interspecies connections and understanding them.
+          </p>
         </div>
+        <img
+          src='/photo/workshops1.jpg'
+          alt='About the project'
+          className='w-full object-cover my-4'
+        />
+        <img
+          src='/photo/workshops2.jpg'
+          alt='About the project'
+          className='w-full object-cover mb-4'
+        />
       </main>
+      <Footer />
     </div>
   );
 };
